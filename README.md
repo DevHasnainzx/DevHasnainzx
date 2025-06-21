@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]  
+### **Unity Game Developer | C# Enthusiast**  
 
-<!--
-**DevHasnainzx/DevHasnainzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername) 
+[![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)](https://unity.com)
+[![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ **Tech Stack**  
+- **Game Engines**: Unity  
+- **Languages**: C#,  
+- **Tools**: Git, GitHub, Unity UI/Animation Systems  
+- **Specialties**: Gameplay Programming, Optimization  
+
+---
+
+## 📫 **Let's Connect**  
+- **Email**: muhammad.hasnain.khanzx@email@domain.com  
+- **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)  
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical) *(Optional)*
